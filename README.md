@@ -1,7 +1,7 @@
 # Projeto-BD
 Repositório para análises feitas para o projeto do curso de Banco de Dados
 
-# Análise de Casos de Dengue x Precipitação (INMET) - Notebook Corrigido
+# Análise de Casos de Dengue x Precipitação (INMET) 
 
 ## Descrição
 
